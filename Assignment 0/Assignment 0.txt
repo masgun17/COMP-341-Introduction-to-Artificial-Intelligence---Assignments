@@ -1,0 +1,14 @@
+
+Go here: https://inst.eecs.berkeley.edu/~cs188/sp20/project0/ and download the tutorial.zip
+
+At this point, you should now how to run it with your own Python setup.
+
+Scroll down to Python basics if you want to do the examples. If you are feeling confident about your Python, feel free to skip
+
+Move on to Autograding section. Follow it to the end. When you are done submit your code.
+
+You are only going to submit addition.py, buyLotsOfFruit.py, shopSmart.py in a common compressed format (zipr, tar, 7z, tar.gz). Do not submit multiple files.
+
+Good luck!
+
+
